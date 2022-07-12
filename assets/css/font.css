@@ -1,0 +1,29 @@
+/* Font */
+@font-face {
+    font-family: 'LuzSans-Book';
+    font-style: normal;
+    font-weight: normal;
+    src: local('LuzSans-Book'), url('../fonts/LUZRO.woff') format('woff');
+}
+@font-face {
+    font-family: 'BiteChocolate';
+    font-style: normal;
+    font-weight: normal;
+    src: local('BiteChocolate'), url('../fonts/Bite\ Chocolate\ Personal\ Use.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Bauhaus93';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Bauhaus93'), url('../fonts/BAUHS93.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Rockwell-ExtraBold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Rockwell-ExtraBold'), url('../fonts/Rockwell-Extra-Bold.ttf') format('truetype');
+}
+body,
+* {
+    font-family: 'LuzSans-Book';
+}
