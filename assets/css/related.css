@@ -59,6 +59,7 @@
     padding: 20px 15px 0 15px;
     z-index: 1;
     position: relative;
+    width: 100%;
 }
 
 .related-book .hover p {
